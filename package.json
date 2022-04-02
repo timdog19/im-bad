@@ -1,33 +1,23 @@
 {
-  "name": "sneak-punks",
-  "version": "0.1.0",
+  "name": "timdog",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@emotion/react": "^11.5.0",
-    "@emotion/styled": "^11.3.0",
-    "@fortawesome/free-brands-svg-icons": "^5.15.4",
-    "@fortawesome/free-solid-svg-icons": "^5.15.4",
-    "@fortawesome/react-fontawesome": "^0.1.16",
-    "@material-ui/core": "^4.12.3",
+    "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.11.2",
     "@material-ui/lab": "^4.0.0-alpha.58",
-    "@mui/icons-material": "^5.0.4",
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.2.7",   
-    "@testing-library/user-event": "^12.8.3",
     "classnames": "^2.3.1",
     "clsx": "^1.1.1",
-    "axios": "^0.24.0",
     "lodash": "^4.17.21",
-    "gsap": "^3.8.0",
     "react": "^17.0.2",
-    "react-hot-toast": "^2.0.0",
-    "react-router-hash-link": "^2.4.3",
     "react-dom": "^17.0.2",
-    "react-scroll": "^1.8.2",
+    "react-hot-toast": "^2.0.0",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-router-hash-link": "^2.4.3",
     "react-scripts": "4.0.3",
-    "swiper": "^6.8.4",
-    "web-vitals": "^1.1.2"
+    "react-scroll": "^1.8.2",
+    "web-vitals": "^2.0.1",
     "web3": "^1.3.6"
   },
   "scripts": {
@@ -67,4 +57,3 @@
     "prettier": "^2.3.1"
   }
 }
-
