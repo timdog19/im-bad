@@ -114,7 +114,7 @@ function Navbar(props) {
             <div className={classes.desktop} style={{ "flex-grow": "0.5" }}>
               <Button color="inherit" href="#">Home</Button>
               <Button color="inherit" href="#About">About</Button>
-              <Button color="inherit" href="#Stats">Stats</Button>
+              <Button color="inherit" href="#homeSectionStyle">homeSectionStyle</Button>
               <Button color="inherit" href="#Roadmap">Roadmap</Button>
               <Button color="inherit" href="#Library">Library</Button>
               <Button color="inherit" href="#FAQ">FAQ</Button>
@@ -146,8 +146,8 @@ function Navbar(props) {
               </ListItemButton>
             </ListItem>
             <ListItem>
-              <ListItemButton button component="a" href="#Stats">
-                <ListItemText primary="Stats" />
+              <ListItemButton button component="a" href="#homeSectionStyle">
+                <ListItemText primary="homeSectionStyle" />
               </ListItemButton>
             </ListItem>
             <ListItem>
