@@ -74,8 +74,8 @@ export const Footer = (props) => {
                       <Link href="#About"><Typography className={classes.pstyle} align="start">
                         About
                       </Typography></Link>
-                      <Link href="#Stats"><Typography className={classes.pstyle} align="start">
-                        Stats
+                      <Link href="#homeSectionStyle"><Typography className={classes.pstyle} align="start">
+                        homeSectionStyle
                       </Typography></Link>
                       <Link href="#Roadmap"><Typography className={classes.pstyle} align="start">
                         Roadmap
